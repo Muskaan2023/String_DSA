@@ -1,7 +1,7 @@
 public class CountlengthofString{
     private static int CountLengthofString(String str){
         int count=0;
-        char[]ch=str.toCharArray();
+        char []ch=str.toCharArray();
         for(char s:ch){
             count++;
         }
