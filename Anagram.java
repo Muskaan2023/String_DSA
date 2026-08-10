@@ -13,8 +13,8 @@ public class Anagram{
         return true;
     }
     public static void main(String []args){
-        String a="listen";
-        String b="slient";
+        String a="Latent";
+        String b="talent";
         System.out.print(isAnagram(a,b));
 
     }
